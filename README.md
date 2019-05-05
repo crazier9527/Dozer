@@ -32,7 +32,7 @@ Manual:
 2. Open Dozer and drag the icon in your menu bar (hold CMD) to the right so it is between some other icons.
 
 ## Usage
-_**N.B. hold `⌘` + drag to move the status bar icons.**_
+**N.B. hold `⌘` + drag to move the status bar icons.**
 
 * Move the icons you want to hide on the left of both Dozer icons.
 * Left-click one of the Dozer icons to hide/show the status bar icons.
