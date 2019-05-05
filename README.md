@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 Dozer
-Dozer lets you hide menu bar items to give your Mac a cleaner look.
+Dozer lets you hide status bar icons to give your Mac a cleaner look.
 
 ###### You might also like [FiScript](https://github.com/Mortennn/FiScript) which lets you execute custom scripts on your files/folders from the context menu in Finder.
 <p align="center">
@@ -32,9 +32,13 @@ Manual:
 2. Open Dozer and drag the icon in your menu bar (hold CMD) to the right so it is between some other icons.
 
 ## Usage
-* `⌘` + drag to move the Dozer icons around in the menu bar.
-* Click any of the Dozer icons to hide menu bar items.
-* Right-click the Dozer icon to open the about page of Dozer.
+_**N.B. hold `⌘` + drag to move the status bar icons.**_
+
+* Move the icons you want to hide on the left of both Dozer icons.
+* Left-click one of the Dozer icons to hide/show the status bar icons.
+* Right-click one of the Dozer icons to open the settings.
+
+**Checkout [this GIF](https://raw.githubusercontent.com/Mortennn/Dozer/master/demo/demo.gif) to watch Dozer in action.**
 
 ## Requirements
-macOS version >= 10.13 
+macOS 10.13+
